@@ -24,7 +24,7 @@ Want to join a server that has more custom scripts like these? Head over to [Vir
 - Please note, mythic notify is NOT required if you know how to change the notifications within the script to use the native system.
 
 ### Manually
-- Download https://github.com/Adamstrench/esx_merryweather/archive/master.zip
+- Download https://github.com/Adamstrench/esx_merryweather/archive/1.1.zip
 - Put it in the `/resources` directory
 
 ## Installation
