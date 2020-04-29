@@ -5,7 +5,7 @@ I know this script is messy with the edits, it's my first release so be nice!
 
 The `main.lua` file the `esx_merryweather/server` directory rewards items based on a chance (1-100), the items within this script may not be available on your server, in which case you'll have to go to line 80 and change the items there.
 
-## Discord Server
+# Discord Server
 
 Want to join a server that has more custom scripts like these? Head over to [Virtual-RP](https://discord.gg/virtualrp) and load into the FiveM server from there.
 
