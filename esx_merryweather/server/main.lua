@@ -77,9 +77,9 @@ AddEventHandler('esx_customrob:robberyStarted', function(currentStore)
 							TriggerClientEvent('esx_customrob:robberyComplete', _source)
 
 							if chance >= 1 and chance <= 5 then
-								xPlayer.addWeapon('weapon_microsmg', 50)
+								xPlayer.addWeapon('WEAPON_MICROSMG', 50)
 							elseif chance >= 6 and chance <= 10 then
-								xPlayer.addWeapon('weapon_smg', 50)
+								xPlayer.addWeapon('WEAPON_SMG', 50)
 							elseif chance <= 25 and chance >= 11 then
 								xPlayer.addInventoryItem('cokebrick', 1)
 							elseif chance <= 50 and chance >= 26 then

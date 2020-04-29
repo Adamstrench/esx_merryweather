@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Merryweather'
+description 'ESX Holdup'
 
 version '1.1.0'
 
