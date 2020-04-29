@@ -5,8 +5,8 @@ I know this script is messy with the edits, it's my first release so be nice!
 
 The `main.lua` file the `esx_merryweather/server` directory rewards items based on a chance (1-100), the items within this script may not be available on your server, in which case you'll have to go to line 80 and change the items there.
 
-### Update Log
-## 1.1
+# Update Log
+### 1.1
 - Added extra ped spawns on a continuous timer.
 - Changed ped accuracy to 100% as they do not shoot full-auto
 - Add three peds that will sit by the main entrance once the robbery is almost complete
